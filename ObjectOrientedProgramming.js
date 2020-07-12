@@ -1,4 +1,4 @@
-//Example for object oriented programming (POO)
+//Example for object oriented programming (POO) - Steeve Henrard
 
 
 //We create a class for our Player (it's generic, all player have the same life, child and number of attack)
